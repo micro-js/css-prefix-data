@@ -2,7 +2,7 @@
   "name": "@f/css-prefix-data",
   "description": "CSS Prefix requirements for browsers",
   "repository": "git://github.com/micro-js/css-prefix-data.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
